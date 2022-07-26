@@ -42,9 +42,9 @@
 &nbsp;
 ***
 ## **🔥Netlify Live Link🔥**
-- [Food Restaurant Home Page]()
+- [Food Restaurant Home Page](https://live-proj-2-fullstackjsbootcamp.netlify.app/)
 
 &nbsp;
 ***
 ## **📷 Post Designing Screenshot 📷**
-![]()
+![](https://github.com/manikD1/Live-Project-2---Food-Restaurant-Home-Page/blob/main/Actual-Screenshot.JPG)
